@@ -1,0 +1,31 @@
+h1{
+    background-image: url(./CPU\ pic\ ..webp);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+img{
+    float: left;
+    height: 250px;
+}
+div{
+    background-color: aqua;
+    height: 250px;
+   text-align: center;
+   border-style: solid;
+ 
+}
+div{
+    background-color: aqua;
+    height: 250px;
+   text-align: center;
+   border-style: solid;
+ font-style: italic;
+}
+div{
+    background-color: aqua;
+    height: 250px;
+   text-align: center;
+   border-style: solid;
+}
+
